@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duddn\\source\\repos\\React.TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D58FFD4-30B8-4016-930B-310929D910BA}|React.TicTacToe\\react.tictactoe.esproj|c:\\users\\duddn\\source\\repos\\react.tictactoe\\react.tictactoe\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2D58FFD4-30B8-4016-930B-310929D910BA}|React.TicTacToe\\react.tictactoe.esproj|solutionrelative:react.tictactoe\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\duddn\\source\\repos\\React.TicTacToe\\react.tictactoe\\src\\App.jsx",
+              "RelativeDocumentMoniker": "react.tictactoe\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\duddn\\source\\repos\\React.TicTacToe\\react.tictactoe\\src\\App.jsx",
+              "RelativeToolTip": "react.tictactoe\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-19T04:14:32.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
